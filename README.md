@@ -5,7 +5,12 @@ This project demonstrates payroll reconciliation and HRIS data analysis using Mi
 
 The objective is to identify discrepancies between approved employee pay rates and actual payroll rates, calculate their financial impact, and summarize findings by department.
 
+## Dashboard Preview
+
+![HRIS Payroll Reconciliation Dashboard](Payroll_Dashboard_Preview.png)
+
 ## Tools and Skills
+
 - Microsoft Excel
 - XLOOKUP and IF formulas
 - COUNTIF, COUNTIFS, SUMIF, and SUMIFS
